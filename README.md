@@ -9,6 +9,7 @@ Las cartas numericas suman su valor, las figuras como "J","K","Q", suman 10 y el
 #Diagramas
 
 -Diagramas de casos de uso:
+![Casos de uso](out/DIAGRAMAS/casos_de_uso/casos_de_uso.png)
 -Diagrama de clases:
 -Diagrma de secuencia:
 
